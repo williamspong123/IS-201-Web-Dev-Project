@@ -1,0 +1,55 @@
+.center {
+  text-align: center;
+  
+}
+
+.colorred{
+  color: rgb(255, 0, 0);
+}
+
+.colorgreen {
+  color: rgb(2, 68, 2)
+}
+
+.central{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+
+.bold{
+  font-weight: bold
+}
+
+.video{
+margin: 1pc 1px 20px 360px 
+}
+
+.button{
+      text-align: center;
+      margin-bottom: 8px;
+      margin-left: 8px;
+      position: relative;
+      text-decoration: underline;
+}
+
+.lightBold{
+  font-weight: 550;
+}
+
+.textStyle{
+ font-family: 'Times New Roman', Times, serif ;
+}
+
+.descriptiontext{
+  color: rgb(0, 60, 12);
+  font-weight: 550;
+  font-size: 12pt;
+  font-weight: 550;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.bigtext { 
+height: 30px;
+}
